@@ -37,5 +37,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huai-Tian&show_icons=true&include_all_commits=true" height="120" alt="Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huai-Tian&layout=compact&langs_count=8" height="120" alt="Top Languages" /> <img src="https://streak-stats.demolab.com/?user=Huai-Tian" height="120" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huai-Tian&show_icons=true&include_all_commits=true" height="125" alt="Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huai-Tian&layout=compact&langs_count=8" height="125" alt="Top Languages" /> <img src="https://streak-stats.demolab.com/?user=Huai-Tian" height="125" alt="Streak Stats" />
 </p>
