@@ -1,6 +1,5 @@
-<a href="https://t.me/HuaiTiann">
-  <h1 align="center">Hi 👋, I'm Huai-Tian ✈️</h1>
-</a>
+<h1 align="center">Hi 👋, I'm Huai-Tian</h1>
+
 
 ## Interests
 
