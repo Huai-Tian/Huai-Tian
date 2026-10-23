@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
