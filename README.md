@@ -6,7 +6,7 @@
 - **Android Reverse Engineering / Hooking** — LSPosed, Magisk, KernelSU
 - **Windows Kernel / Hardware** — Intel VT-x (EPT), AMD SVM (NPT), DMA
 - **Cryptography / Secure Communication** — Noise, ML-KEM (Post-Quantum), E2EE
-- **Scripting / Automation** — Python, PowerShell, Lua, MCP
+- **Scripting / Automation** — Python, PowerShell, Lua, LLM, MCP
 
 ## Tech Stack
 
